@@ -1,0 +1,11 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+select {
+    margin: 15px;
+    text-align: center;
+}
+option {
+    text-align: center;
+}
